@@ -10,7 +10,7 @@ This decompositon as like other methods follows genuily intresting logics. It wo
 6. If an improving column exists, add it to the RMP and repeat.<br>
 7. Terminate when no new improving columns are found (optimality is reached).<br>
 
-The main reson behind all this is to reduce computational complexity by avoiding explicit enumeration of all possible variables.<br>
+The main reason behind all this is to reduce computational complexity by avoiding explicit enumeration of all possible variables.<br>
 
 So if it caught your attention and wanna know more, read more:<br>
 Dantzig, G. B., & Wolfe, P. (1960): *Decomposition principle for linear programs* – First mention of Dantzig-Wolfe decomposition.<br>
